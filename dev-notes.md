@@ -1,5 +1,8 @@
 # Developer Topics
 
+<!-- toc -->
+<!-- tocstop -->
+
 ## APIs
 
 - Scaling Your Node.JS API Like a Boss
