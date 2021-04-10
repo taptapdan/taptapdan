@@ -3,6 +3,8 @@
 <!-- toc -->
 
 - [APIs](#apis)
+- [Git](#git)
+  * [Commits & Changelog](#commits--changelog)
 - [JavaScript](#javascript)
   * [Event Loop](#event-loop)
 - [React](#react)
