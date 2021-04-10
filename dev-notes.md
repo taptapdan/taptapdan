@@ -10,6 +10,12 @@
 
 ## Conference Videos
 
+### Byteconf React 2020
+
+https://www.youtube.com/playlist?list=PLH_Crma-Dc9OwLsglv7uP13JUM3uP6STx
+
+> Byteconf React was a 100% free two-day React.js conference on May 1st and 2nd. Rewatch all the talks below, and join our newsletter so you don't miss the next free remote conference we put on!
+
 ### Firebase Live 2020
 
 https://firebaseonair.withgoogle.com/events/firebase-live20
