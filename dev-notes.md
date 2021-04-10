@@ -8,6 +8,8 @@
 - [React](#react)
   * [React Hooks](#react-hooks)
   * [State Management](#state-management)
+- [Testing](#testing)
+  * [Visual Coverage](#visual-coverage)
 - [Conference Videos](#conference-videos)
   * [Byteconf React 2020](#byteconf-react-2020)
   * [Firebase Live 2020](#firebase-live-2020)
