@@ -52,6 +52,12 @@ https://www.youtube.com/user/jsconfeu/videos
 
 > JSConf is a series of JavaScript conferences from around the world and here we release the conference talk videos for free as fast as we can after every event.
 
+### JSConf HI 2020
+
+https://www.youtube.com/playlist?list=PL37ZVnwpeshH-mmcnUNoM7LVyegK27Gm1
+
+> JSConf Hawaii 2020 was held from Feb 5-7 in Waikiki, Hawaii, USA.
+
 ### PyOhio
 
 https://www.youtube.com/channel/UCYqdrfvhGxNW3vXebypqXoQ
