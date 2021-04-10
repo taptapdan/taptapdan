@@ -51,6 +51,10 @@
 
 ## React
 
+### Next.js
+
+- [Nested layouts and routes in Next.js](https://www.youtube.com/watch?v=69-mnojSa0M)
+
 ### React Hooks
 
 - [Custom Hooks in React: The Ultimate UI Abstraction Layer](https://www.youtube.com/watch?v=J-g9ZJha8FE)
@@ -58,7 +62,6 @@
 ### State Management
 
 - [Managing React Application State Management | Kent C. Dodds](https://www.youtube.com/watch?v=zpUMRsAO6-Y)
-
 
 ## Testing
 
