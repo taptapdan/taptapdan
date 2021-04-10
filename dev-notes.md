@@ -33,6 +33,14 @@
   - [Volkan Özçelik](https://speakerdeck.com/volkan/scaling-your-node-dot-js-api-like-a-boss)
   - [Slides](https://speakerdeck.com/volkan/scaling-your-node-dot-js-api-like-a-boss)
 
+## Git
+
+### Commits & Changelog
+
+- [Write git commit messages like a PRO with Conventional Commits](https://www.youtube.com/watch?v=OJqUWvmf4gg)
+- [Conventional Commits](https://www.conventionalcommits.org/) | A specification for adding human and machine readable meaning to commit messages
+- [standard-version](https://www.npmjs.com/package/standard-version) | A utility for versioning using semver and CHANGELOG generation powered by Conventional Commits.
+
 ## JavaScript
 
 ### Event Loop
