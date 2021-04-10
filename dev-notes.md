@@ -47,6 +47,16 @@
 
 - [Managing React Application State Management | Kent C. Dodds](https://www.youtube.com/watch?v=zpUMRsAO6-Y)
 
+
+## Testing
+
+### Visual Coverage
+
+- [percy](https://percy.io/)
+
+---
+---
+
 ## Conference Videos
 
 ### Byteconf React 2020
