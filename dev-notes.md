@@ -8,6 +8,7 @@
 - [JavaScript](#javascript)
   * [Event Loop](#event-loop)
 - [React](#react)
+  * [Next.js](#nextjs)
   * [React Hooks](#react-hooks)
   * [State Management](#state-management)
 - [Testing](#testing)
