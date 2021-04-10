@@ -8,6 +8,12 @@
   - [Volkan Özçelik](https://speakerdeck.com/volkan/scaling-your-node-dot-js-api-like-a-boss)
   - [Slides](https://speakerdeck.com/volkan/scaling-your-node-dot-js-api-like-a-boss)
 
+## JavaScript
+
+### Event Loop
+
+- [What the heck is the event loop anyway? | Philip Roberts](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
+
 ## React
 
 ### React Hooks
