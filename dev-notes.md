@@ -1,6 +1,26 @@
 # Developer Topics
 
 <!-- toc -->
+
+- [APIs](#apis)
+- [JavaScript](#javascript)
+  * [Event Loop](#event-loop)
+- [React](#react)
+  * [React Hooks](#react-hooks)
+  * [State Management](#state-management)
+- [Conference Videos](#conference-videos)
+  * [Byteconf React 2020](#byteconf-react-2020)
+  * [Firebase Live 2020](#firebase-live-2020)
+  * [Framework Summit](#framework-summit)
+  * [Github Universe 2017](#github-universe-2017)
+  * [Google Next OnAir](#google-next-onair)
+  * [JSCamp](#jscamp)
+  * [JSConf](#jsconf)
+  * [JSConf HI 2020](#jsconf-hi-2020)
+  * [PyOhio](#pyohio)
+  * [React Advanced](#react-advanced)
+  * [React Alicante](#react-alicante)
+
 <!-- tocstop -->
 
 ## APIs
