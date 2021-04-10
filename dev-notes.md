@@ -8,6 +8,12 @@
   - [Volkan Özçelik](https://speakerdeck.com/volkan/scaling-your-node-dot-js-api-like-a-boss)
   - [Slides](https://speakerdeck.com/volkan/scaling-your-node-dot-js-api-like-a-boss)
 
+## React
+
+### React Hooks
+
+- [Custom Hooks in React: The Ultimate UI Abstraction Layer](https://www.youtube.com/watch?v=J-g9ZJha8FE)
+
 ## Conference Videos
 
 ### Byteconf React 2020
