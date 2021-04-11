@@ -69,6 +69,10 @@
 
 ## Testing
 
+### Email
+
+- [Mailtrap](https://mailtrap.io/)
+
 ### Visual Coverage
 
 - [percy](https://percy.io/)
