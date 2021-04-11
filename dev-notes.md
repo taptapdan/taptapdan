@@ -55,6 +55,7 @@
 ### Next.js
 
 - [Nested layouts and routes in Next.js](https://www.youtube.com/watch?v=69-mnojSa0M)
+- [NextAuth.js](https://next-auth.js.org/) 🔐
 
 ### React Hooks
 
