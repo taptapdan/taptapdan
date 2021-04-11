@@ -52,6 +52,10 @@
 
 ## React
 
+### Patterns
+
+- [Using Composition in React to Avoid "Prop Drilling"](https://www.youtube.com/watch?v=3XaXKiXtNjw)
+
 ### Next.js
 
 - [Nested layouts and routes in Next.js](https://www.youtube.com/watch?v=69-mnojSa0M)
