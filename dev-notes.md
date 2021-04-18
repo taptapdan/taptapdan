@@ -63,6 +63,7 @@
 
 ### React Hooks
 
+- [React Hook FAQs](https://reactjs.org/docs/hooks-faq.html)
 - [Custom Hooks in React: The Ultimate UI Abstraction Layer](https://www.youtube.com/watch?v=J-g9ZJha8FE)
 
 ### State Management
