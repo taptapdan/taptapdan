@@ -64,6 +64,7 @@
 ### React Hooks
 
 - [React Hook FAQs](https://reactjs.org/docs/hooks-faq.html)
+- [eslint-plugin-react-hooks](https://www.npmjs.com/package/eslint-plugin-react-hooks)
 - [Rooks](https://react-hooks.org/) | A collection of React hooks for everyone
 - [Custom Hooks in React: The Ultimate UI Abstraction Layer](https://www.youtube.com/watch?v=J-g9ZJha8FE)
 
