@@ -37,6 +37,13 @@
   - [Volkan Özçelik](https://speakerdeck.com/volkan/scaling-your-node-dot-js-api-like-a-boss)
   - [Slides](https://speakerdeck.com/volkan/scaling-your-node-dot-js-api-like-a-boss)
 
+## Docker
+
+- Dockerfile naming convention
+  - Multiple Dockefiles in a repo? Use `Dockerfile.usage` not `usage.Dockerfile`.
+  - [docker build | Specify a Dockerfile](https://docs.docker.com/engine/reference/commandline/build/#specify-a-dockerfile--f)
+  - [Change naming pattern for Dockerfiles to <purpose>.Dockerfile](https://github.com/docker/docker.github.io/pull/10562)
+
 ## Git
 
 ### Commits & Changelog
