@@ -67,6 +67,7 @@
 ### Debugging
 
 - [Debugging in 2017 with Node.js](https://www.youtube.com/watch?v=Xb_0awoShR8&t=265s)
+- [Understanding and Debugging Memory Leaks in Your Node.js Applications](https://www.youtube.com/watch?v=hliOMEQRqf8)
 
 ## Prisma
 
