@@ -68,6 +68,7 @@
   - [Sign in with Credentials](https://next-auth.js.org/configuration/providers#sign-in-with-credentials)
   - [NextJS Authentication Crash Course with NextAuth.js](https://www.youtube.com/watch?v=o_wZIVmWteQ)
   - [Create your own NextAuth Login Pages](https://www.youtube.com/watch?v=kB6YNYZ63fw)
+  - [Add auth support to a Next.js app with a custom backend](https://arunoda.me/blog/add-auth-support-to-a-next-js-app-with-a-custom-backend)
 
 ### React Hooks
 
