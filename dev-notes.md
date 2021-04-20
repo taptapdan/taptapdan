@@ -8,6 +8,8 @@
   * [Commits & Changelog](#commits--changelog)
 - [JavaScript](#javascript)
   * [Event Loop](#event-loop)
+- [Node](#node)
+  * [Debugging](#debugging)
 - [Prisma](#prisma)
 - [React](#react)
   * [Next.js](#nextjs)
