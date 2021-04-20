@@ -60,6 +60,12 @@
 
 - [What the heck is the event loop anyway? | Philip Roberts](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
 
+## Node
+
+### Debugging
+
+- [Debugging in 2017 with Node.js](https://www.youtube.com/watch?v=Xb_0awoShR8&t=265s)
+
 ## Prisma
 
 - [Prisma - The Easiest Way to Work with a Database in Next.js](https://www.youtube.com/watch?v=lF8DV_ICIpY)
