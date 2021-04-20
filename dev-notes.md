@@ -59,6 +59,10 @@
 
 - [What the heck is the event loop anyway? | Philip Roberts](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
 
+## Prisma
+
+- [Prisma - The Easiest Way to Work with a Database in Next.js](https://www.youtube.com/watch?v=lF8DV_ICIpY)
+
 ## React
 
 ### Next.js
