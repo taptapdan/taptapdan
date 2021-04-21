@@ -69,6 +69,10 @@
 - [Debugging in 2017 with Node.js](https://www.youtube.com/watch?v=Xb_0awoShR8&t=265s)
 - [Understanding and Debugging Memory Leaks in Your Node.js Applications](https://www.youtube.com/watch?v=hliOMEQRqf8)
 
+## Error Handling
+
+- [Error Handling in Node.js](https://www.joyent.com/node-js/production/design/errors)
+
 ## Prisma
 
 - [Prisma - The Easiest Way to Work with a Database in Next.js](https://www.youtube.com/watch?v=lF8DV_ICIpY)
