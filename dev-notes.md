@@ -10,6 +10,7 @@
   * [Event Loop](#event-loop)
 - [Node](#node)
   * [Debugging](#debugging)
+  * [Error Handling](#error-handling)
 - [Prisma](#prisma)
 - [React](#react)
   * [Next.js](#nextjs)
