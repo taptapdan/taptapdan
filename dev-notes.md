@@ -18,6 +18,7 @@
   * [State Management](#state-management)
 - [Testing](#testing)
   * [Email](#email)
+  * [Mocks](#mocks)
   * [Visual Coverage](#visual-coverage)
 - [Conference Videos](#conference-videos)
   * [Byteconf React 2020](#byteconf-react-2020)
