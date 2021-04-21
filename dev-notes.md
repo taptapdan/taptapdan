@@ -112,6 +112,7 @@
 ### Mocks
 
 - [Mock a Library in Jest and Typescript](https://medium.com/swlh/mock-a-library-in-jest-and-typescript-a8bec189efc3)
+- [fetch-mock](http://www.wheresrhys.co.uk/fetch-mock/)
 
 ### Visual Coverage
 
