@@ -119,9 +119,6 @@
 
 - [percy](https://percy.io/)
 
----
----
-
 ## Conference Videos
 
 ### Byteconf React 2020
