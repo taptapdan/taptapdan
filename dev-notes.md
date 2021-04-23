@@ -8,6 +8,7 @@
   * [Commits & Changelog](#commits--changelog)
 - [JavaScript](#javascript)
   * [Event Loop](#event-loop)
+  * [Immutability](#immutability)
 - [Node](#node)
   * [Debugging](#debugging)
   * [Error Handling](#error-handling)
