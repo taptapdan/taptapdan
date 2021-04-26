@@ -12,6 +12,7 @@
 - [Node](#node)
   * [Debugging](#debugging)
   * [Error Handling](#error-handling)
+  * [Performance](#performance)
 - [Prisma](#prisma)
 - [React](#react)
   * [Next.js](#nextjs)
