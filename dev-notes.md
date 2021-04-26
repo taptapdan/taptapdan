@@ -162,6 +162,10 @@ https://cloud.withgoogle.com/next/sf/
 
 > Solve your most important business challenges with fresh on-demand content, interactive experiences, and more.
 
+### Internation JavaScript Conference
+
+https://www.youtube.com/channel/UCYMuZm39Z5Qc7JZfiYoxemQ
+
 ### JSCamp
 
 https://www.youtube.com/channel/UCVLlWT1NZZEJs4A67XgObnQ/videos
