@@ -82,6 +82,10 @@
 
 - [Error Handling in Node.js](https://www.joyent.com/node-js/production/design/errors)
 
+### Performance
+
+- [Node.js performance analytics and best practices | Sebastian Springer](https://www.youtube.com/watch?v=tV9jqQxXwv4)
+
 ## Prisma
 
 - [Prisma - The Easiest Way to Work with a Database in Next.js](https://www.youtube.com/watch?v=lF8DV_ICIpY)
