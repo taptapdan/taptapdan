@@ -28,6 +28,7 @@
   * [Framework Summit](#framework-summit)
   * [Github Universe 2017](#github-universe-2017)
   * [Google Next OnAir](#google-next-onair)
+  * [Internation JavaScript Conference](#internation-javascript-conference)
   * [JSCamp](#jscamp)
   * [JSConf](#jsconf)
   * [JSConf HI 2020](#jsconf-hi-2020)
