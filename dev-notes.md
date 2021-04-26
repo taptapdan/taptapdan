@@ -174,6 +174,10 @@ https://www.youtube.com/playlist?list=PL37ZVnwpeshH-mmcnUNoM7LVyegK27Gm1
 
 > JSConf Hawaii 2020 was held from Feb 5-7 in Waikiki, Hawaii, USA.
 
+### NodeConf Remote 2020
+
+https://www.youtube.com/playlist?list=PL0CdgOSSGlBalMPxFFycq7OIqQF8cJS28
+
 ### PyOhio
 
 https://www.youtube.com/channel/UCYqdrfvhGxNW3vXebypqXoQ
