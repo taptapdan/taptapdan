@@ -163,7 +163,7 @@ https://cloud.withgoogle.com/next/sf/
 
 > Solve your most important business challenges with fresh on-demand content, interactive experiences, and more.
 
-### Internation JavaScript Conference
+### International JavaScript Conference
 
 https://www.youtube.com/channel/UCYMuZm39Z5Qc7JZfiYoxemQ
 
