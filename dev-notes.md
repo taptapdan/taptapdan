@@ -110,6 +110,11 @@
 
 ## React
 
+### Bundle Size
+
+- [Analyzing and Reducing React Bundle Size](https://medium.com/a-young-devoloper/analyzing-and-reducing-react-bundle-size-bb2d2577b22a)
+- [How I Cut My React Javascript Bundle Size In Half With Three Lines of Code](https://codeburst.io/how-i-cut-my-react-javascript-bundle-size-in-half-with-three-lines-of-code-fe7798ecbd3f)
+
 ### Next.js
 
 - [Nested layouts and routes in Next.js](https://www.youtube.com/watch?v=69-mnojSa0M)
