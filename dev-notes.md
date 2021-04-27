@@ -5,6 +5,7 @@
 - [APIs](#apis)
 - [Docker](#docker)
   * [Configuration](#configuration)
+  * [Kubernetes](#kubernetes)
   * [Mutagen](#mutagen)
 - [Git](#git)
   * [Commits & Changelog](#commits--changelog)
