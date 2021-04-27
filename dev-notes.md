@@ -58,6 +58,10 @@
   - [docker build | Specify a Dockerfile](https://docs.docker.com/engine/reference/commandline/build/#specify-a-dockerfile--f)
   - [Change naming pattern for Dockerfiles to <purpose>.Dockerfile](https://github.com/docker/docker.github.io/pull/10562)
 
+### Kubernetes
+
+- [Configure Liveness, Readiness and Startup Probes](https://kubernetes.io/docs/tasks/configure-pod-container/configure-liveness-readiness-startup-probes/)
+
 ### Mutagen
 
 - [Speeding Up Docker Development on the Mac](https://blog.rocketinsights.com/speeding-up-docker-development-on-the-mac/)
