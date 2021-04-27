@@ -18,6 +18,7 @@
   * [Performance](#performance)
 - [Prisma](#prisma)
 - [React](#react)
+  * [Bundle Size](#bundle-size)
   * [Next.js](#nextjs)
   * [React Hooks](#react-hooks)
   * [State Management](#state-management)
