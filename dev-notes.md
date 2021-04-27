@@ -145,7 +145,7 @@
 
 - [percy](https://percy.io/)
 
-## Typescript
+## TypeScript
 
 ### Configuration
 
