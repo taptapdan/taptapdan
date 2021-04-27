@@ -4,6 +4,8 @@
 
 - [APIs](#apis)
 - [Docker](#docker)
+  * [Configuration](#configuration)
+  * [Mutagen](#mutagen)
 - [Git](#git)
   * [Commits & Changelog](#commits--changelog)
 - [JavaScript](#javascript)
