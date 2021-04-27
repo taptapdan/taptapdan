@@ -145,6 +145,14 @@
 
 - [percy](https://percy.io/)
 
+## Typescript
+
+### Configuration
+
+- [Why is a file in the exclude list still picked up by the compiler?](https://github.com/Microsoft/TypeScript/wiki/FAQ#why-is-a-file-in-the-exclude-list-still-picked-up-by-the-compiler)
+  - `tsc --listFiles` to list what files are included in your compilation
+  - `tsc --traceResolution` to see why they were included
+
 ## Conference Videos
 
 ### Byteconf React 2020
