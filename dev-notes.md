@@ -49,10 +49,17 @@
 
 ## Docker
 
+### Configuration
+
 - Dockerfile naming convention
   - Multiple Dockefiles in a repo? Use `Dockerfile.usage` not `usage.Dockerfile`.
   - [docker build | Specify a Dockerfile](https://docs.docker.com/engine/reference/commandline/build/#specify-a-dockerfile--f)
   - [Change naming pattern for Dockerfiles to <purpose>.Dockerfile](https://github.com/docker/docker.github.io/pull/10562)
+
+### Mutagen
+
+- [Speeding Up Docker Development on the Mac](https://blog.rocketinsights.com/speeding-up-docker-development-on-the-mac/)
+- [Docker container endpoints](https://mutagen.io/documentation/transports/docker)
 
 ## Git
 
