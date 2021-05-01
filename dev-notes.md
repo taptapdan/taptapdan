@@ -3,6 +3,8 @@
 <!-- toc -->
 
 - [APIs](#apis)
+  * [Swagger (Open API)](#swagger-open-api)
+  * [Scaling](#scaling)
 - [Docker](#docker)
   * [Configuration](#configuration)
   * [Kubernetes](#kubernetes)
