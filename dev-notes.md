@@ -150,6 +150,10 @@
 - [Mock Service Worker](https://mswjs.io/)
 - [fetch-mock](http://www.wheresrhys.co.uk/fetch-mock/)
 
+## Tools
+
+- [Hyper Terminal](https://hyper.is/)
+
 ### Visual Coverage
 
 - [percy](https://percy.io/)
