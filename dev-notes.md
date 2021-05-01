@@ -25,6 +25,7 @@
 - [Testing](#testing)
   * [Email](#email)
   * [Mocks](#mocks)
+- [Tools](#tools)
   * [Visual Coverage](#visual-coverage)
 - [TypeScript](#typescript)
   * [Configuration](#configuration-1)
