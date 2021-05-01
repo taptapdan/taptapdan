@@ -49,6 +49,14 @@
 
 ## APIs
 
+### Swagger (Open API)
+
+- [Autogenerating Swagger Documentation with Node & Express](https://www.youtube.com/watch?v=apouPYPh_as)
+- [Automatic Swagger Documentation with Node & Express](https://www.youtube.com/watch?v=eiSem0cqaN0)
+- [Fastest Way to Create APIs? | NestJS Tutorial](https://www.youtube.com/watch?v=WZtHM4Ph-K8)
+
+### Scaling
+
 - Scaling Your Node.JS API Like a Boss
   - [Part 1](https://www.youtube.com/watch?v=Ogjb60Fg10A)
   - [Part 2](https://www.youtube.com/watch?v=f5phsX4VUOU)
