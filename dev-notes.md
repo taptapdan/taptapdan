@@ -179,6 +179,10 @@
 
 ### With
 
+- [Remove React.FC from Typescript template](https://github.com/facebook/create-react-app/pull/8177)
+
+> `React.FC` is unnecessary: it provides next to no benefits and has a few downsides.
+
 - [Complete guide for Typescript with Mongoose for Node.js](https://medium.com/@agentwhs/complete-guide-for-typescript-for-mongoose-for-node-js-8cc0a7e470c1)
 - [Styled Components & TypeScript](https://blog.agney.dev/styled-components-&-typescript/)
 
