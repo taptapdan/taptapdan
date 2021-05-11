@@ -83,6 +83,12 @@
 - [Speeding Up Docker Development on the Mac](https://blog.rocketinsights.com/speeding-up-docker-development-on-the-mac/)
 - [Docker container endpoints](https://mutagen.io/documentation/transports/docker)
 
+## Engineering
+
+### Leadership
+
+- [What does a lead engineer do?](https://medium.com/engineering-leadership/what-does-a-lead-engineer-do-ec8cdc119ff7)
+
 ## Git
 
 ### Commits & Changelog
