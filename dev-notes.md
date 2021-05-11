@@ -9,6 +9,8 @@
   * [Configuration](#configuration)
   * [Kubernetes](#kubernetes)
   * [Mutagen](#mutagen)
+- [Engineering](#engineering)
+  * [Leadership](#leadership)
 - [Git](#git)
   * [Commits & Changelog](#commits--changelog)
 - [JavaScript](#javascript)
