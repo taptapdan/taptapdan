@@ -27,6 +27,7 @@
   * [Next.js](#nextjs)
   * [React Hooks](#react-hooks)
   * [State Management](#state-management)
+- [Reads](#reads)
 - [Testing](#testing)
   * [Email](#email-1)
   * [Mocks](#mocks)
