@@ -181,7 +181,9 @@
 
 ## Tools
 
+- [Exa](https://the.exa.website/) | a modern replacement for ls
 - [Hyper Terminal](https://hyper.is/)
+- [Nerd Fonts](https://www.nerdfonts.com/) | Iconic font aggregator, collection, and patcher
 
 ### Visual Coverage
 
