@@ -53,6 +53,10 @@
 
 <!-- tocstop -->
 
+## Accessibility
+
+- [Toggle buttons](https://inclusive-components.design/toggle-button/)
+
 ## APIs
 
 ### Swagger (Open API)
