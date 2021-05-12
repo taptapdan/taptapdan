@@ -2,6 +2,7 @@
 
 <!-- toc -->
 
+- [Accessibility](#accessibility)
 - [APIs](#apis)
   * [Swagger (Open API)](#swagger-open-api)
   * [Scaling](#scaling)
