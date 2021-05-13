@@ -92,10 +92,6 @@
 - [Speeding Up Docker Development on the Mac](https://blog.rocketinsights.com/speeding-up-docker-development-on-the-mac/)
 - [Docker container endpoints](https://mutagen.io/documentation/transports/docker)
 
-## Email
-
-- [Can I email](https://www.caniemail.com/) | Support tables for HTML and CSS in emails
-
 ## Engineering
 
 ### Leadership
@@ -135,6 +131,16 @@
 ### Performance
 
 - [Node.js performance analytics and best practices | Sebastian Springer](https://www.youtube.com/watch?v=tV9jqQxXwv4)
+
+## Notifications
+
+### Email
+
+- [Can I email](https://www.caniemail.com/) | Support tables for HTML and CSS in emails
+
+### Services
+
+- [Courier](https://www.courier.com/)
 
 ## Prisma
 
