@@ -100,6 +100,16 @@
 
 - [What does a lead engineer do?](https://medium.com/engineering-leadership/what-does-a-lead-engineer-do-ec8cdc119ff7)
 
+### Not Invented Here
+
+- [In Defense of Not-Invented-Here Syndrome](https://www.joelonsoftware.com/2001/10/14/in-defense-of-not-invented-here-syndrome/) | Joel on Software
+
+> If it’s a core business function — do it yourself, no matter what.
+
+- [PackageCustomization](https://martinfowler.com/bliki/PackageCustomization.html) | Martin Fowler
+
+> Boiled down this means that if the business process you are supporting is part of your competitive advantage you should build custom software, if not you should buy a package and adjust your business process to fit the way the package works.
+
 ## Git
 
 ### Commits & Changelog
