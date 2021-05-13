@@ -12,6 +12,7 @@
   * [Mutagen](#mutagen)
 - [Engineering](#engineering)
   * [Leadership](#leadership)
+  * [Not Invented Here](#not-invented-here)
 - [Git](#git)
   * [Commits & Changelog](#commits--changelog)
 - [JavaScript](#javascript)
