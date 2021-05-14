@@ -150,6 +150,7 @@
 ### Email
 
 - [Can I email](https://www.caniemail.com/) | Support tables for HTML and CSS in emails
+- [Onboarding Emails: Best Practices](https://clevertap.com/blog/onboarding-emails-best-practices/)
 
 ### Services
 
