@@ -216,6 +216,8 @@
 
 ## TypeScript
 
+- [Typescript Default Parameters](https://www.typescripttutorial.net/typescript-tutorial/typescript-default-parameters/)
+ 
 ### Configuration
 
 - [Why is a file in the exclude list still picked up by the compiler?](https://github.com/Microsoft/TypeScript/wiki/FAQ#why-is-a-file-in-the-exclude-list-still-picked-up-by-the-compiler)
