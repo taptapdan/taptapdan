@@ -219,6 +219,8 @@
 ### NPM Packages
  
 - [Mousetrap](https://www.npmjs.com/package/mousetrap) | a simple library for handling keyboard shortcuts in Javascript
+- [React Query](https://react-query.tanstack.com/)
+  - [Does React Query replace Redux, MobX or other global state managers?](https://react-query.tanstack.com/guides/does-this-replace-client-state) 
 
 ### Visual Coverage
 
