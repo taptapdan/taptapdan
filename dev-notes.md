@@ -37,6 +37,7 @@
   * [Email](#email-1)
   * [Mocks](#mocks)
 - [Tools](#tools)
+  * [NPM Packages](#npm-packages)
   * [Visual Coverage](#visual-coverage)
 - [TypeScript](#typescript)
   * [Configuration](#configuration-1)
