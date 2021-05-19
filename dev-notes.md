@@ -6,6 +6,7 @@
 - [APIs](#apis)
   * [Swagger (Open API)](#swagger-open-api)
   * [Scaling](#scaling)
+- [Design Patterns](#design-patterns)
 - [Docker](#docker)
   * [Configuration](#configuration)
   * [Kubernetes](#kubernetes)
