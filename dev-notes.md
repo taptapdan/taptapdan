@@ -215,6 +215,10 @@
 - [Hyper Terminal](https://hyper.is/)
 - [Nerd Fonts](https://www.nerdfonts.com/) | Iconic font aggregator, collection, and patcher
 
+### NPM Packages
+ 
+- [Mousetrap](https://www.npmjs.com/package/mousetrap) | a simple library for handling keyboard shortcuts in Javascript
+
 ### Visual Coverage
 
 - [percy](https://percy.io/)
