@@ -77,6 +77,10 @@
   - [Volkan Özçelik](https://speakerdeck.com/volkan/scaling-your-node-dot-js-api-like-a-boss)
   - [Slides](https://speakerdeck.com/volkan/scaling-your-node-dot-js-api-like-a-boss)
 
+## Design Patterns
+
+- [State - Design Patterns](https://gameprogrammingpatterns.com/state.html)
+
 ## Docker
 
 ### Configuration
