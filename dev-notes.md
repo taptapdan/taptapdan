@@ -198,6 +198,11 @@
 
 - [Hacker News](https://news.ycombinator.com/)
 
+## Socket.io
+
+- [How to test Socket.io with Jest on backend (Node.js)?](https://www.freecodecamp.org/news/testing-socket-io-client-app-using-jest-and-react-testing-library-9cae93c070a3/)
+- [How to test a Socket.io-client app using Jest and the react-testing-library](https://www.freecodecamp.org/news/testing-socket-io-client-app-using-jest-and-react-testing-library-9cae93c070a3/)
+ 
 ## Testing
 
 ### Email
