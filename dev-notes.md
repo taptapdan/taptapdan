@@ -33,6 +33,7 @@
   * [React Hooks](#react-hooks)
   * [State Management](#state-management)
 - [Reads](#reads)
+- [Socket.io](#socketio)
 - [Testing](#testing)
   * [Email](#email-1)
   * [Mocks](#mocks)
