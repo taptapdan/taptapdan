@@ -235,6 +235,13 @@
 ## TypeScript
 
 - [Typescript Default Parameters](https://www.typescripttutorial.net/typescript-tutorial/typescript-default-parameters/)
+- [Differences Between Type Aliases and Interfaces](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#differences-between-type-aliases-and-interfaces)
+
+> For the most part, you can choose based on personal preference, and TypeScript will tell you if it needs something to be the other kind of declaration. If you would like a heuristic, use `interface` until you need to use features from `type`.
+
+- [Types vs. interfaces in TypeScript](https://blog.logrocket.com/types-vs-interfaces-in-typescript/)
+
+> Interface work better with objects and method objects, and types are better to work with functions, complex types, etc.
  
 ### Configuration
 
