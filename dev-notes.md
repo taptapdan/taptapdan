@@ -251,6 +251,8 @@
 
 > Interface work better with objects and method objects, and types are better to work with functions, complex types, etc.
  
+ - [Downlevel Iteration for ES3/ES5 in TypeScript](https://mariusschulz.com/blog/downlevel-iteration-for-es3-es5-in-typescript)
+ 
 ### Configuration
 
 - [Why is a file in the exclude list still picked up by the compiler?](https://github.com/Microsoft/TypeScript/wiki/FAQ#why-is-a-file-in-the-exclude-list-still-picked-up-by-the-compiler)
