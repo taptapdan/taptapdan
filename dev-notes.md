@@ -64,6 +64,7 @@
 
 ## Accessibility
 
+- [Accessibility issues with placeholder text](http://blog.joycedigital.com/2018/10/05/accessibility-issues-with-placeholder-text/)
 - [Toggle buttons](https://inclusive-components.design/toggle-button/)
 
 ## APIs
