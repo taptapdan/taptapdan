@@ -38,6 +38,7 @@
 - [Socket.io](#socketio)
 - [Testing](#testing)
   * [Email](#email-1)
+  * [React](#react-1)
   * [Mocks](#mocks)
 - [Tools](#tools)
   * [NPM Packages](#npm-packages)
