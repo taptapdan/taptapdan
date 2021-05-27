@@ -219,6 +219,14 @@
 
 - [Mailtrap](https://mailtrap.io/)
 
+### React
+
+- [testing-library](https://testing-library.com/)
+  - [About Queries](https://testing-library.com/docs/queries/about)
+  - [Configuration | testIdAttribute](https://testing-library.com/docs/dom-testing-library/api-configuration/#testidattribute)
+
+> The attribute used by `getByTestId` and related queries. Defaults to `data-testid`.
+
 ### Mocks
 
 - [Mock a Library in Jest and Typescript](https://medium.com/swlh/mock-a-library-in-jest-and-typescript-a8bec189efc3)
