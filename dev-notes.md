@@ -261,6 +261,7 @@
 > For the most part, you can choose based on personal preference, and TypeScript will tell you if it needs something to be the other kind of declaration. If you would like a heuristic, use `interface` until you need to use features from `type`.
 
 - [Types vs. interfaces in TypeScript](https://blog.logrocket.com/types-vs-interfaces-in-typescript/)
+- [Filtering undefined elements from an array in TypeScript](https://www.benmvp.com/blog/filtering-undefined-elements-from-array-typescript/)
 
 > Interface work better with objects and method objects, and types are better to work with functions, complex types, etc.
  
