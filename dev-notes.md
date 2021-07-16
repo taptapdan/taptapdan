@@ -93,6 +93,7 @@
 ## Design Patterns
 
 - [State - Design Patterns](https://gameprogrammingpatterns.com/state.html)
+- [Buttons shouldn't have a hand cursor](https://medium.com/simple-human/buttons-shouldnt-have-a-hand-cursor-b11e99ca374b)
 
 ## Docker
 
