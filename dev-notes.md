@@ -228,6 +228,8 @@
   - [Configuration | testIdAttribute](https://testing-library.com/docs/dom-testing-library/api-configuration/#testidattribute)
 
 > The attribute used by `getByTestId` and related queries. Defaults to `data-testid`.
+ 
+  - [Common mistakes with React Testing Library](https://kentcdodds.com/blog/common-mistakes-with-react-testing-library)
 
 ### Mocks
 
@@ -248,7 +250,6 @@
   - [Does React Query replace Redux, MobX or other global state managers?](https://react-query.tanstack.com/guides/does-this-replace-client-state) 
   - [Strongly typing react-querys useQueries](https://blog.johnnyreilly.com/2021/01/03/strongly-typing-react-query-s-usequeries/)
   - [feat(types): useQueries to flow through types](https://github.com/tannerlinsley/react-query/pull/1527)
-  - [Common mistakes with React Testing Library](https://kentcdodds.com/blog/common-mistakes-with-react-testing-library)
  
 ### Visual Coverage
 
