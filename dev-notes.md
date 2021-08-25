@@ -225,11 +225,12 @@
 
 - [testing-library](https://testing-library.com/)
   - [About Queries](https://testing-library.com/docs/queries/about)
+    - [WAI-ARIA Roles](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles)
+    - [Support narrowing getByRole with type](https://github.com/testing-library/dom-testing-library/issues/1012)
   - [Configuration | testIdAttribute](https://testing-library.com/docs/dom-testing-library/api-configuration/#testidattribute)
+  - [Common mistakes with React Testing Library](https://kentcdodds.com/blog/common-mistakes-with-react-testing-library)
 
 > The attribute used by `getByTestId` and related queries. Defaults to `data-testid`.
- 
-  - [Common mistakes with React Testing Library](https://kentcdodds.com/blog/common-mistakes-with-react-testing-library)
 
 ### Mocks
 
