@@ -230,6 +230,7 @@
     - [Support narrowing getByRole with type](https://github.com/testing-library/dom-testing-library/issues/1012)
   - [Configuration | testIdAttribute](https://testing-library.com/docs/dom-testing-library/api-configuration/#testidattribute)
   - [Common mistakes with React Testing Library](https://kentcdodds.com/blog/common-mistakes-with-react-testing-library)
+  - [Increase Code Maintainability With React Integration Testing](https://www.toptal.com/react/react-testing-library-tutorial)
 
 > The attribute used by `getByTestId` and related queries. Defaults to `data-testid`.
 
