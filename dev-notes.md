@@ -6,6 +6,7 @@
 - [APIs](#apis)
   * [Swagger (Open API)](#swagger-open-api)
   * [Scaling](#scaling)
+- [CSS](#css)
 - [Design](#design)
   * [Colors](#colors)
 - [Design Patterns](#design-patterns)
