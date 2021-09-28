@@ -42,6 +42,7 @@
   * [React](#react-1)
   * [Mocks](#mocks)
 - [Tools](#tools)
+  * [Component Libraries](#component-libraries)
   * [NPM Packages](#npm-packages)
   * [Visual Coverage](#visual-coverage)
 - [TypeScript](#typescript)
