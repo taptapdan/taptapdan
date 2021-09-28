@@ -251,6 +251,10 @@
 - [Hyper Terminal](https://hyper.is/)
 - [Nerd Fonts](https://www.nerdfonts.com/) | Iconic font aggregator, collection, and patcher
 
+### Component Libraries
+ 
+- [Loading Bar](https://loading.io/progress/)
+ 
 ### NPM Packages
  
 - [Mousetrap](https://www.npmjs.com/package/mousetrap) | a simple library for handling keyboard shortcuts in Javascript
@@ -258,7 +262,7 @@
   - [Does React Query replace Redux, MobX or other global state managers?](https://react-query.tanstack.com/guides/does-this-replace-client-state) 
   - [Strongly typing react-querys useQueries](https://blog.johnnyreilly.com/2021/01/03/strongly-typing-react-query-s-usequeries/)
   - [feat(types): useQueries to flow through types](https://github.com/tannerlinsley/react-query/pull/1527)
- 
+
 ### Visual Coverage
 
 - [percy](https://percy.io/)
