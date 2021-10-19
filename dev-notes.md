@@ -9,7 +9,7 @@
 - [CSS](#css)
 - [Design](#design)
   * [Colors](#colors)
-- [Design Patterns](#design-patterns)
+  * [Design Patterns](#design-patterns)
 - [Docker](#docker)
   * [Configuration](#configuration)
   * [Kubernetes](#kubernetes)
