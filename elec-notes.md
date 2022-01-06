@@ -6,6 +6,7 @@
   * [Hardware](#hardware)
   * [Software](#software)
 - [Tutorials](#tutorials)
+  * [Channels](#channels)
   * [Electronics](#electronics)
   * [Synthesis](#synthesis)
 - [Musical Inspiration](#musical-inspiration)
