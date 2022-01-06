@@ -1,6 +1,12 @@
 # Electronic Music Notes
 
 <!-- toc -->
+
+- [Tutorials](#tutorials)
+  * [Electronics](#electronics)
+  * [Synthesis](#synthesis)
+- [Musical Inspiration](#musical-inspiration)
+
 <!-- tocstop -->
 
 ## Tutorials
