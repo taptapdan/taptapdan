@@ -9,8 +9,6 @@
 
 <!-- tocstop -->
 
-## Tutorials
-
 ## Resources
 
 ### Hardware
@@ -20,6 +18,8 @@
 ### Software
 
 - [Multisum Live](https://www.multisim.com/)
+
+## Tutorials
 
 ### Electronics
 
