@@ -23,6 +23,7 @@
   - [All Electronics](https://www.allelectronics.com/)
   - [Digi-Key](https://www.digikey.com/)
   - [Jameco](https://www.jameco.com/)
+  - [LCSC](https://www.lcsc.com/)
   - [Mouser](https://www.mouser.com/)
 
 
