@@ -2,6 +2,9 @@
 
 <!-- toc -->
 
+- [Resources](#resources)
+  * [Hardware](#hardware)
+  * [Software](#software)
 - [Tutorials](#tutorials)
   * [Electronics](#electronics)
   * [Synthesis](#synthesis)
