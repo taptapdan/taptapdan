@@ -30,6 +30,7 @@
 
 ### Channels
 
+- [EEVBlog](https://www.youtube.com/user/EEVblog)
 - [GreatScott](https://www.youtube.com/user/greatscottlab)
 - [learnelectronics](https://www.youtube.com/c/learnelectronics)
 - [LOOK MUM NO COMPUTER](https://www.youtube.com/channel/UCafxR2HWJRmMfSdyZXvZMTw)
