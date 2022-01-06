@@ -1,5 +1,8 @@
 # Electronic Music Notes
 
+<!-- toc -->
+<!-- tocstop -->
+
 ## Tutorials
 
 ### Electronics
