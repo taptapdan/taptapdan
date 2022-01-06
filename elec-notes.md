@@ -19,6 +19,7 @@
 
 - [Adafruit](https://www.adafruit.com/)
 - [SparkFun](https://www.sparkfun.com/)
+- [Octopart](https://octopart.com/) : search engine for electronic parts
 - Distributors
   - [All Electronics](https://www.allelectronics.com/)
   - [Digi-Key](https://www.digikey.com/) 📌
