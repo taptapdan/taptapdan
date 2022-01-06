@@ -30,6 +30,7 @@
 
 ### Channels
 
+- [EEforEveryone](https://www.youtube.com/channel/UC-ZHvtr0YOEQ56iDrjeOLOg)
 - [EEVBlog](https://www.youtube.com/user/EEVblog)
 - [GreatScott](https://www.youtube.com/user/greatscottlab)
 - [learnelectronics](https://www.youtube.com/c/learnelectronics)
