@@ -21,7 +21,7 @@
 - [SparkFun](https://www.sparkfun.com/)
 - Distributors
   - [All Electronics](https://www.allelectronics.com/)
-  - [Digi-Key](https://www.digikey.com/)
+  - [Digi-Key](https://www.digikey.com/) 📌
   - [Future Electronics](https://www.futureelectronics.com/)
   - [Jameco](https://www.jameco.com/)
   - [LCSC](https://www.lcsc.com/)
