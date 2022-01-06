@@ -18,10 +18,12 @@
 ### Hardware
 
 - [Adafruit](https://www.adafruit.com/)
-- [All Electronics](https://www.allelectronics.com/)
-- [Digi-Key](https://www.digikey.com/)
 - [SparkFun](https://www.sparkfun.com/)
-- [Mouser](https://www.mouser.com/)
+- Components
+  - [All Electronics](https://www.allelectronics.com/)
+  - [Digi-Key](https://www.digikey.com/)
+  - [Mouser](https://www.mouser.com/)
+
 
 ### Software
 
