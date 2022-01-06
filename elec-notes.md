@@ -8,6 +8,7 @@
 
 ### Synthesis
 
+- [DIY VCO Part 1: The analog oscillator core anyone can build](https://www.youtube.com/watch?v=QBatvo8bCa4)
 - [World's easiest oscillator! Introducing the CD40106](https://www.youtube.com/watch?v=P4SwaI09Zxc)
 
 ## Musical Inspiration
