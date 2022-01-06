@@ -7,7 +7,6 @@ on:
     - master
     paths:
     - dev-notes.md
-    - elec-notes.md
 
 jobs:
   build:
