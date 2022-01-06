@@ -22,9 +22,11 @@
 - Distributors
   - [All Electronics](https://www.allelectronics.com/)
   - [Digi-Key](https://www.digikey.com/)
+  - [Future Electronics](https://www.futureelectronics.com/)
   - [Jameco](https://www.jameco.com/)
   - [LCSC](https://www.lcsc.com/)
   - [Mouser](https://www.mouser.com/)
+  - [TTI](https://www.tti.com/content/ttiinc/en.html)
 
 
 ### Software
