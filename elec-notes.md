@@ -1,4 +1,4 @@
-# Electronic Music Notes
+# Electronic Music Notes 👨‍💻🎧
 
 <!-- toc -->
 
