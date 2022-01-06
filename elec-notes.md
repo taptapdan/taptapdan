@@ -11,6 +11,16 @@
 
 ## Tutorials
 
+## Resources
+
+### Hardware
+
+- [Digi-Key](https://www.digikey.com/)
+
+### Software
+
+- [Multisum Live](https://www.multisim.com/)
+
 ### Electronics
 
 - [What is a schottky diode?](https://www.youtube.com/watch?v=bXEyCf1P0UU)
