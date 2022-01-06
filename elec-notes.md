@@ -19,9 +19,10 @@
 
 - [Adafruit](https://www.adafruit.com/)
 - [SparkFun](https://www.sparkfun.com/)
-- Components
+- Distributors
   - [All Electronics](https://www.allelectronics.com/)
   - [Digi-Key](https://www.digikey.com/)
+  - [Jameco](https://www.jameco.com/)
   - [Mouser](https://www.mouser.com/)
 
 
