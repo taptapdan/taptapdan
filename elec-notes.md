@@ -31,6 +31,7 @@
 ### Channels
 
 - [learnelectronics](https://www.youtube.com/c/learnelectronics)
+- [Moritz Klein](https://www.youtube.com/c/MoritzKlein0)
 - [Synth DIY Guy](https://www.youtube.com/channel/UCaTca38SJErVLsfYkrg2R9w)
 
 ### Electronics
