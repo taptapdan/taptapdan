@@ -31,6 +31,7 @@
 ### Channels
 
 - [learnelectronics](https://www.youtube.com/c/learnelectronics)
+- [Synth DIY Guy](https://www.youtube.com/channel/UCaTca38SJErVLsfYkrg2R9w)
 
 ### Electronics
 
