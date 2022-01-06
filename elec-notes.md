@@ -27,6 +27,10 @@
 
 ## Tutorials
 
+### Channels
+
+- [learnelectronics](https://www.youtube.com/c/learnelectronics)
+
 ### Electronics
 
 - [What is a schottky diode?](https://www.youtube.com/watch?v=bXEyCf1P0UU)
