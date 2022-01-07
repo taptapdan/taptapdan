@@ -10,6 +10,8 @@
   * [Electronics](#electronics)
   * [Synthesis](#synthesis)
 - [Musical Inspiration](#musical-inspiration)
+  * [Channels](#channels-1)
+  * [Videos](#videos)
 
 <!-- tocstop -->
 
