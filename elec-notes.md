@@ -47,6 +47,7 @@
 - [LOOK MUM NO COMPUTER](https://www.youtube.com/channel/UCafxR2HWJRmMfSdyZXvZMTw)
 - [Moritz Klein](https://www.youtube.com/c/MoritzKlein0)
 - [Pete McBennett](https://www.youtube.com/channel/UCk4mtz-tZbXdk1Xb0DSd2QQ/videos)
+- [Sarah Michelle](https://www.youtube.com/user/nhusean/videos)
 - [Synth DIY Guy](https://www.youtube.com/channel/UCaTca38SJErVLsfYkrg2R9w)
 
 ### Electronics
