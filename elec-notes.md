@@ -54,8 +54,11 @@
 
 ### Synthesis
 
-- [DIY VCO Part 1: The analog oscillator core anyone can build](https://www.youtube.com/watch?v=QBatvo8bCa4)
-- [World's easiest oscillator! Introducing the CD40106](https://www.youtube.com/watch?v=P4SwaI09Zxc)
+- Oscillators
+  - [DIY VCO Part 1: The analog oscillator core anyone can build](https://www.youtube.com/watch?v=QBatvo8bCa4)
+  - [World's easiest oscillator! Introducing the CD40106](https://www.youtube.com/watch?v=P4SwaI09Zxc)
+- Sequencers
+  - [McBennett Sequencer with Arduino UNO](https://www.youtube.com/watch?v=8zP8_2Gjr9Q)
 
 ## Musical Inspiration
 
