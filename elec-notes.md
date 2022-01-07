@@ -57,4 +57,10 @@
 
 ## Musical Inspiration
 
+### Channels
+
 - [Mr Bill](https://www.youtube.com/c/MrBillsTunes)
+
+### Videos
+
+- [Folding Space - Generative Modular Ambient // 4 Hour Relaxation](https://www.youtube.com/watch?v=6JeZR13dLLI)
