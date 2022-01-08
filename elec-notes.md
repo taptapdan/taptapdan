@@ -54,7 +54,9 @@
 
 ### Electronics
 
-- [What is a schottky diode?](https://www.youtube.com/watch?v=bXEyCf1P0UU)
+- [Essential Electronics Components that you will need for creating projects](https://www.youtube.com/watch?v=u4md32GMX28)
+- Diodes
+  - [What is a schottky diode?](https://www.youtube.com/watch?v=bXEyCf1P0UU)
 
 ### Synthesis
 
