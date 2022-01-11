@@ -3,6 +3,7 @@
 <!-- toc -->
 
 - [Resources](#resources)
+  * [Modular Synth](#modular-synth)
   * [Hardware](#hardware)
   * [Software](#software)
 - [Tutorials](#tutorials)
