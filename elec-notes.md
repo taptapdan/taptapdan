@@ -21,6 +21,7 @@
 
 ### Modular Synth
 
+- [Modular Grid](https://www.modulargrid.net/) : plan your modular synth rack
 - [Modular Synth Lab](https://modularsynthlab.com/)
 
 ### Hardware
