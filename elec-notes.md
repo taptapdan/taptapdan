@@ -40,6 +40,10 @@
 
 - [Multisum Live](https://www.multisim.com/)
 
+### Books
+
+- [Push Turn Move](https://bjooks.com/products/push-turn-move-the-book) : interface design in electronic music
+
 ## Tutorials
 
 ### Channels
