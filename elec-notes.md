@@ -17,7 +17,7 @@
 
 ## Resources
 
-## Modular Synth
+### Modular Synth
 
 - [Modular Synth Lab](https://modularsynthlab.com/)
 
