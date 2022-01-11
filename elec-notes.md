@@ -6,6 +6,7 @@
   * [Modular Synth](#modular-synth)
   * [Hardware](#hardware)
   * [Software](#software)
+  * [Books](#books)
 - [Tutorials](#tutorials)
   * [Channels](#channels)
   * [Electronics](#electronics)
