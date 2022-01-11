@@ -17,6 +17,10 @@
 
 ## Resources
 
+## Modular Synth
+
+- [Modular Synth Lab](https://modularsynthlab.com/)
+
 ### Hardware
 
 - [Adafruit](https://www.adafruit.com/)
@@ -30,7 +34,6 @@
   - [LCSC](https://www.lcsc.com/)
   - [Mouser](https://www.mouser.com/)
   - [TTI](https://www.tti.com/content/ttiinc/en.html)
-
 
 ### Software
 
