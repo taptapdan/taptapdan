@@ -50,6 +50,8 @@
 
 ### Channels
 
+- Blogs
+  - [ModularParts.net Tips](http://www.tips.modularparts.net/?s=)
 - Electronics
   - [EEforEveryone](https://www.youtube.com/channel/UC-ZHvtr0YOEQ56iDrjeOLOg)
   - [EEVBlog](https://www.youtube.com/user/EEVblog)
