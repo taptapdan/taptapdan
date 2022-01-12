@@ -55,6 +55,7 @@
   - [EEVBlog](https://www.youtube.com/user/EEVblog)
   - [GreatScott](https://www.youtube.com/user/greatscottlab)
   - [learnelectronics](https://www.youtube.com/c/learnelectronics)
+  - [Lidmotor](https://www.youtube.com/user/Lidmotor/videos)
 - DIY Synth 
   - [LOOK MUM NO COMPUTER](https://www.youtube.com/channel/UCafxR2HWJRmMfSdyZXvZMTw)
   - [Moritz Klein](https://www.youtube.com/c/MoritzKlein0)
