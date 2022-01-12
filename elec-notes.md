@@ -27,6 +27,7 @@
 ### Hardware
 
 - [Adafruit](https://www.adafruit.com/)
+- [Banggood](https://www.banggood.com/)
 - [SparkFun](https://www.sparkfun.com/)
 - [Octopart](https://octopart.com/) : search engine for electronic parts
 - Distributors
