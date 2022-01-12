@@ -52,6 +52,7 @@
 ### Channels
 
 - Blogs
+  - [Electronic Things... and Stuff](https://www.davidhaillant.com/)
   - [ModularParts.net Tips](http://www.tips.modularparts.net/?s=)
 - Electronics
   - [EEforEveryone](https://www.youtube.com/channel/UC-ZHvtr0YOEQ56iDrjeOLOg)
