@@ -48,6 +48,7 @@
 
 ### Books
 
+- [Navy Electricity and Electronics Training Series](https://www.hnsa.org/manuals-documents/2575-2/) : NEETS
 - [Push Turn Move](https://bjooks.com/products/push-turn-move-the-book) : interface design in electronic music
 
 ## Tutorials
