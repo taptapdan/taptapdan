@@ -2,15 +2,15 @@
 
 <!-- toc -->
 
+- [Topics](#topics)
+  * [Electronics](#electronics)
+  * [Synthesis DIY](#synthesis-diy)
+- [Blogs and Channels](#blogs-and-channels)
 - [Resources](#resources)
   * [Modular Synth](#modular-synth)
   * [Hardware](#hardware)
   * [Software](#software)
   * [Books](#books)
-- [Topics](#topics)
-  * [Electronics](#electronics)
-  * [Synthesis DIY](#synthesis-diy)
-- [Blogs and Channels](#blogs-and-channels)
 - [Musical Inspiration](#musical-inspiration)
   * [Channels](#channels)
   * [Videos](#videos)
