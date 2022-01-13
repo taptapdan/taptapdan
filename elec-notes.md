@@ -39,21 +39,26 @@
 
 ## Blogs and Channels
 
-- Blogs
-  - [Electronic Things... and Stuff](https://www.davidhaillant.com/)
-  - [ModularParts.net Tips](http://www.tips.modularparts.net/?s=)
-- Electronics
-  - [EEforEveryone](https://www.youtube.com/channel/UC-ZHvtr0YOEQ56iDrjeOLOg)
-  - [EEVBlog](https://www.youtube.com/user/EEVblog)
-  - [GreatScott](https://www.youtube.com/user/greatscottlab)
-  - [learnelectronics](https://www.youtube.com/c/learnelectronics)
-  - [Lidmotor](https://www.youtube.com/user/Lidmotor/videos)
-- DIY Synth 
-  - [LOOK MUM NO COMPUTER](https://www.youtube.com/channel/UCafxR2HWJRmMfSdyZXvZMTw)
-  - [Moritz Klein](https://www.youtube.com/c/MoritzKlein0)
-  - [Pete McBennett](https://www.youtube.com/channel/UCk4mtz-tZbXdk1Xb0DSd2QQ/videos)
-  - [Sarah Michelle](https://www.youtube.com/user/nhusean/videos)
-  - [Synth DIY Guy](https://www.youtube.com/channel/UCaTca38SJErVLsfYkrg2R9w)
+### Blogs
+
+- [Electronic Things... and Stuff](https://www.davidhaillant.com/)
+- [ModularParts.net Tips](http://www.tips.modularparts.net/?s=)
+
+### Electronics
+  
+- [EEforEveryone](https://www.youtube.com/channel/UC-ZHvtr0YOEQ56iDrjeOLOg)
+- [EEVBlog](https://www.youtube.com/user/EEVblog)
+- [GreatScott](https://www.youtube.com/user/greatscottlab)
+- [learnelectronics](https://www.youtube.com/c/learnelectronics)
+- [Lidmotor](https://www.youtube.com/user/Lidmotor/videos)
+
+### Synthesis DIY 
+
+- [LOOK MUM NO COMPUTER](https://www.youtube.com/channel/UCafxR2HWJRmMfSdyZXvZMTw)
+- [Moritz Klein](https://www.youtube.com/c/MoritzKlein0)
+- [Pete McBennett](https://www.youtube.com/channel/UCk4mtz-tZbXdk1Xb0DSd2QQ/videos)
+- [Sarah Michelle](https://www.youtube.com/user/nhusean/videos)
+- [Synth DIY Guy](https://www.youtube.com/channel/UCaTca38SJErVLsfYkrg2R9w)
 
 ## Resources
 
