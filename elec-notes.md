@@ -51,9 +51,27 @@
 - [Navy Electricity and Electronics Training Series](https://www.hnsa.org/manuals-documents/2575-2/) : NEETS
 - [Push Turn Move](https://bjooks.com/products/push-turn-move-the-book) : interface design in electronic music
 
-## Tutorials
+## Topics
 
-### Channels
+### Electronics
+
+- [Electronics Books Recommendations](https://www.youtube.com/watch?v=LDIylNOC660)
+- [Essential Electronics Components that you will need for creating projects](https://www.youtube.com/watch?v=u4md32GMX28)
+- Diodes
+  - [What is a schottky diode?](https://www.youtube.com/watch?v=bXEyCf1P0UU)
+
+### Synthesis DIY
+
+- Power
+  - [DIY EURORACK | Affordable Power Supply For Your Modular Synth](https://www.youtube.com/watch?v=WKQG_xHybWE)
+- Oscillators
+  - [Complete beginner's guide to using a breadboard](https://www.youtube.com/watch?v=XpMZoR3fgd0)
+  - [DIY VCO Part 1: The analog oscillator core anyone can build](https://www.youtube.com/watch?v=QBatvo8bCa4)
+  - [World's easiest oscillator! Introducing the CD40106](https://www.youtube.com/watch?v=P4SwaI09Zxc)
+- Sequencers
+  - [McBennett Sequencer with Arduino UNO](https://www.youtube.com/watch?v=8zP8_2Gjr9Q)
+
+## Blogs and Channels
 
 - Blogs
   - [Electronic Things... and Stuff](https://www.davidhaillant.com/)
@@ -70,24 +88,6 @@
   - [Pete McBennett](https://www.youtube.com/channel/UCk4mtz-tZbXdk1Xb0DSd2QQ/videos)
   - [Sarah Michelle](https://www.youtube.com/user/nhusean/videos)
   - [Synth DIY Guy](https://www.youtube.com/channel/UCaTca38SJErVLsfYkrg2R9w)
-
-### Electronics
-
-- [Electronics Books Recommendations](https://www.youtube.com/watch?v=LDIylNOC660)
-- [Essential Electronics Components that you will need for creating projects](https://www.youtube.com/watch?v=u4md32GMX28)
-- Diodes
-  - [What is a schottky diode?](https://www.youtube.com/watch?v=bXEyCf1P0UU)
-
-### Synthesis
-
-- Power
-  - [DIY EURORACK | Affordable Power Supply For Your Modular Synth](https://www.youtube.com/watch?v=WKQG_xHybWE)
-- Oscillators
-  - [Complete beginner's guide to using a breadboard](https://www.youtube.com/watch?v=XpMZoR3fgd0)
-  - [DIY VCO Part 1: The analog oscillator core anyone can build](https://www.youtube.com/watch?v=QBatvo8bCa4)
-  - [World's easiest oscillator! Introducing the CD40106](https://www.youtube.com/watch?v=P4SwaI09Zxc)
-- Sequencers
-  - [McBennett Sequencer with Arduino UNO](https://www.youtube.com/watch?v=8zP8_2Gjr9Q)
 
 ## Musical Inspiration
 
