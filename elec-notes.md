@@ -78,6 +78,7 @@
 - Power
   - [DIY EURORACK | Affordable Power Supply For Your Modular Synth](https://www.youtube.com/watch?v=WKQG_xHybWE)
 - Oscillators
+  - [Complete beginner's guide to using a breadboard](https://www.youtube.com/watch?v=XpMZoR3fgd0)
   - [DIY VCO Part 1: The analog oscillator core anyone can build](https://www.youtube.com/watch?v=QBatvo8bCa4)
   - [World's easiest oscillator! Introducing the CD40106](https://www.youtube.com/watch?v=P4SwaI09Zxc)
 - Sequencers
