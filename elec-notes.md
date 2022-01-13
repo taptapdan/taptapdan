@@ -17,40 +17,6 @@
 
 <!-- tocstop -->
 
-## Resources
-
-### Modular Synth
-
-- [Modular Grid](https://www.modulargrid.net/) : plan your modular synth rack
-- [Modular Synth Lab](https://modularsynthlab.com/)
-
-### Hardware
-
-- [Adafruit](https://www.adafruit.com/)
-- [Banggood](https://www.banggood.com/)
-- [SparkFun](https://www.sparkfun.com/)
-- [Octopart](https://octopart.com/) : search engine for electronic parts
-- Distributors
-  - [All Electronics](https://www.allelectronics.com/)
-  - [Digi-Key](https://www.digikey.com/) 📌
-  - [Future Electronics](https://www.futureelectronics.com/)
-  - [Jameco](https://www.jameco.com/)
-  - [LCSC](https://www.lcsc.com/)
-  - [Mouser](https://www.mouser.com/)
-  - [TTI](https://www.tti.com/content/ttiinc/en.html)
-
-### Software
-
-- [Melda Production](https://www.meldaproduction.com/effects/free) : free VSTs
-  - MAnalyzer : spectral analyzer and sonogram
-  - MOscilliscope : oscilloscope equipped with a pitch detector
-- [Multisum Live](https://www.multisim.com/)
-
-### Books
-
-- [Navy Electricity and Electronics Training Series](https://www.hnsa.org/manuals-documents/2575-2/) : NEETS
-- [Push Turn Move](https://bjooks.com/products/push-turn-move-the-book) : interface design in electronic music
-
 ## Topics
 
 ### Electronics
@@ -88,6 +54,40 @@
   - [Pete McBennett](https://www.youtube.com/channel/UCk4mtz-tZbXdk1Xb0DSd2QQ/videos)
   - [Sarah Michelle](https://www.youtube.com/user/nhusean/videos)
   - [Synth DIY Guy](https://www.youtube.com/channel/UCaTca38SJErVLsfYkrg2R9w)
+
+## Resources
+
+### Modular Synth
+
+- [Modular Grid](https://www.modulargrid.net/) : plan your modular synth rack
+- [Modular Synth Lab](https://modularsynthlab.com/)
+
+### Hardware
+
+- [Adafruit](https://www.adafruit.com/)
+- [Banggood](https://www.banggood.com/)
+- [SparkFun](https://www.sparkfun.com/)
+- [Octopart](https://octopart.com/) : search engine for electronic parts
+- Distributors
+  - [All Electronics](https://www.allelectronics.com/)
+  - [Digi-Key](https://www.digikey.com/) 📌
+  - [Future Electronics](https://www.futureelectronics.com/)
+  - [Jameco](https://www.jameco.com/)
+  - [LCSC](https://www.lcsc.com/)
+  - [Mouser](https://www.mouser.com/)
+  - [TTI](https://www.tti.com/content/ttiinc/en.html)
+
+### Software
+
+- [Melda Production](https://www.meldaproduction.com/effects/free) : free VSTs
+  - MAnalyzer : spectral analyzer and sonogram
+  - MOscilliscope : oscilloscope equipped with a pitch detector
+- [Multisum Live](https://www.multisim.com/)
+
+### Books
+
+- [Navy Electricity and Electronics Training Series](https://www.hnsa.org/manuals-documents/2575-2/) : NEETS
+- [Push Turn Move](https://bjooks.com/products/push-turn-move-the-book) : interface design in electronic music
 
 ## Musical Inspiration
 
