@@ -41,6 +41,9 @@
 
 ### Software
 
+- [Melda Production](https://www.meldaproduction.com/effects/free) : free VSTs
+  - MAnalyzer : spectral analyzer and sonogram
+  - MOscilliscope : oscilloscope equipped with a pitch detector
 - [Multisum Live](https://www.multisim.com/)
 
 ### Books
