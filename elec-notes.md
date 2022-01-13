@@ -7,12 +7,12 @@
   * [Hardware](#hardware)
   * [Software](#software)
   * [Books](#books)
-- [Tutorials](#tutorials)
-  * [Channels](#channels)
+- [Topics](#topics)
   * [Electronics](#electronics)
-  * [Synthesis](#synthesis)
+  * [Synthesis DIY](#synthesis-diy)
+- [Blogs and Channels](#blogs-and-channels)
 - [Musical Inspiration](#musical-inspiration)
-  * [Channels](#channels-1)
+  * [Channels](#channels)
   * [Videos](#videos)
 
 <!-- tocstop -->
