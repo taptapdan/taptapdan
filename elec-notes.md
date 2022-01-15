@@ -31,6 +31,8 @@
 
 ### Synthesis DIY
 
+- Ideas
+  - [What is the EuroPI?](https://www.youtube.com/watch?v=DLe0U3VAxL8)
 - Power
   - [DIY EURORACK | Affordable Power Supply For Your Modular Synth](https://www.youtube.com/watch?v=WKQG_xHybWE)
 - Oscillators
