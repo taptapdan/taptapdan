@@ -43,6 +43,8 @@
   - [Complete beginner's guide to using a breadboard](https://www.youtube.com/watch?v=XpMZoR3fgd0)
   - [DIY VCO Part 1: The analog oscillator core anyone can build](https://www.youtube.com/watch?v=QBatvo8bCa4)
   - [World's easiest oscillator! Introducing the CD40106](https://www.youtube.com/watch?v=P4SwaI09Zxc)
+- Samplers
+  - [DIY 4 channel isd1820 lo-fi SAMPLER](https://www.youtube.com/watch?v=epjCe3o5BPA) 
 - Sequencers
   - [McBennett Sequencer with Arduino UNO](https://www.youtube.com/watch?v=8zP8_2Gjr9Q)
 
