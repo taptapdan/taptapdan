@@ -35,14 +35,16 @@
   - EuroPi
     - [What is the EuroPI?](https://www.youtube.com/watch?v=DLe0U3VAxL8)
     - [Github Repo](https://github.com/Allen-Synthesis/EuroPi)
-- Power
-  - [DIY EURORACK | Affordable Power Supply For Your Modular Synth](https://www.youtube.com/watch?v=WKQG_xHybWE)
+- DAC
+  - [Let's Make: A MIDI DAC](https://www.youtube.com/watch?v=wa4Z6aX7JL8)
 - Oscillators
   - Erica Synths mki x es.EDU
     - VCO DIY Kit : [Product Page](https://www.ericasynths.lv/shop/diy-kits-1/edu-diy-vco/) : [User Manual](https://www.ericasynths.lv/media/VCO_FINAL.pdf)
   - [Complete beginner's guide to using a breadboard](https://www.youtube.com/watch?v=XpMZoR3fgd0)
   - [DIY VCO Part 1: The analog oscillator core anyone can build](https://www.youtube.com/watch?v=QBatvo8bCa4)
   - [World's easiest oscillator! Introducing the CD40106](https://www.youtube.com/watch?v=P4SwaI09Zxc)
+- Power
+  - [DIY EURORACK | Affordable Power Supply For Your Modular Synth](https://www.youtube.com/watch?v=WKQG_xHybWE)
 - Samplers
   - [DIY 4 channel isd1820 lo-fi SAMPLER](https://www.youtube.com/watch?v=epjCe3o5BPA) 
 - Sequencers
