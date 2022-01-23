@@ -36,7 +36,7 @@
     - [What is the EuroPI?](https://www.youtube.com/watch?v=DLe0U3VAxL8)
     - [Github Repo](https://github.com/Allen-Synthesis/EuroPi)
 - DAC
-  - [Let's Make: A MIDI DAC](https://www.youtube.com/watch?v=wa4Z6aX7JL8)
+  - [Let's Make: A MIDI DAC](https://www.youtube.com/watch?v=wa4Z6aX7JL8) ([Code](https://gist.github.com/taptapdan/39464a0b9da3676c0470b2905ef8e113))
 - Oscillators
   - Erica Synths mki x es.EDU
     - VCO DIY Kit : [Product Page](https://www.ericasynths.lv/shop/diy-kits-1/edu-diy-vco/) : [User Manual](https://www.ericasynths.lv/media/VCO_FINAL.pdf)
