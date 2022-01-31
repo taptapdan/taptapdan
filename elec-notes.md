@@ -50,6 +50,8 @@
   - [DIY 4 channel isd1820 lo-fi SAMPLER](https://www.youtube.com/watch?v=epjCe3o5BPA) 
 - Sequencers
   - [McBennett Sequencer with Arduino UNO](https://www.youtube.com/watch?v=8zP8_2Gjr9Q)
+- Misc
+  - [Teensy Polyphonic Synth](https://www.youtube.com/watch?v=KbcNqarBTsI)
 
 ## Blogs and Channels
 
