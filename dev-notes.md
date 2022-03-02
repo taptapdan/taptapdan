@@ -218,6 +218,8 @@
 
 - [Hacker News](https://news.ycombinator.com/)
 - [What Color is Your Function?](https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/)
+- [Patterns.dev](https://www.patterns.dev/posts/)
+  - [React Server Components](https://www.patterns.dev/posts/react-server-components/) 
 
 ## Socket.io
 
