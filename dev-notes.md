@@ -170,6 +170,7 @@
 ### Performance
 
 - [Node.js performance analytics and best practices | Sebastian Springer](https://www.youtube.com/watch?v=tV9jqQxXwv4)
+- [How to make TypeScript Blazingly Fast (JavaScript/NodeJS)](https://www.youtube.com/watch?v=Sp5_d6coiqU)
 
 ## Notifications
 
