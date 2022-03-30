@@ -103,6 +103,10 @@
 - [Why are hyperlinks blue?](https://blog.mozilla.org/en/internet-culture/deep-dives/why-are-hyperlinks-blue/)
 - [E-Commerce UX: Allow Users to Combine Multiple Filtering Values of the Same Type — an ‘OR’ logic](https://baymard.com/blog/allow-applying-of-multiple-filter-values)
 
+### Resources
+
+- [Pexels](https://www.pexels.com/) | free stock photos, royalty free images & videos
+
 ## Docker
 
 ### Configuration
