@@ -10,6 +10,7 @@
 - [Design](#design)
   * [Colors](#colors)
   * [Design Patterns](#design-patterns)
+  * [Resources](#resources)
 - [Docker](#docker)
   * [Configuration](#configuration)
   * [Kubernetes](#kubernetes)
