@@ -107,6 +107,7 @@
 ### Resources
 
 - [Pexels](https://www.pexels.com/) | free stock photos, royalty free images & videos
+- [Undraw](https://undraw.co/) | open source illustrations
 
 ## Docker
 
