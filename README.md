@@ -44,7 +44,6 @@ I'm <strong>taptapdan</strong>, I'm a software engineer with 15 years of experie
   ....
 </p>
 
-<p align="center">
+<p align="right">
     <small><em><!--UPDATED_START-->Updated on Tue, 15 Nov 2022 15:22:29 GMT<!--UPDATED_END--></em></small>
 </p>
-
