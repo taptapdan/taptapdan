@@ -24,7 +24,7 @@ I'm <strong>taptapdan</strong>, I'm a software engineer with 15 years of experie
 ### Year Progress
 
 <p>
-  <!--YEAR_START--><!--YEAR_END-->
+  <!--YEAR_START-->◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️👾◽️◽️◽️◽️ 87.18% complete<!--YEAR_END-->
 </p>
 
 <p align="center">
@@ -34,3 +34,4 @@ I'm <strong>taptapdan</strong>, I'm a software engineer with 15 years of experie
 <p align="center">
   <img src="typing.gif" alt="" />
 </p>
+

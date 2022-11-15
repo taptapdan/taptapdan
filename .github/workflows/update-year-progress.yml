@@ -15,7 +15,9 @@ jobs:
       - uses: actions/checkout@v2
       - uses: actions/setup-node@v1
       - name: Update README.md
-        run: node update.js > README.md
+        run: |
+          node update.js > README--.md
+          mv README--.md README.md
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: 'Update README with progress'
