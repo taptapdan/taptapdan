@@ -36,3 +36,4 @@ I'm <strong>taptapdan</strong>, I'm a software engineer with 15 years of experie
   <img src="typing.gif" alt="" />
 </p>
 
+
