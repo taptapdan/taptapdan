@@ -40,3 +40,4 @@ I'm <strong>taptapdan</strong>, I'm a software engineer with 15 years of experie
   <em>On the other side of the screen, it all looks so easy.</em>
 </p>
 
+
