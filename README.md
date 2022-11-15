@@ -22,7 +22,7 @@ I'm <strong>taptapdan</strong>, I'm a software engineer with 15 years of experie
   <img alt="npm" src="https://img.shields.io/badge/-npm-black?style=for-the-badge&logo=npm&logoColor=white" />
 </p>
 
-### The Year Progress
+### This Year's Progress
 
 <p>
   <!--YEAR_START-->◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️👾◽️◽️◽️◽️ 87.18% complete<!--YEAR_END-->
