@@ -16,6 +16,7 @@ I'm <strong>taptapdan</strong>, I'm a software engineer with 15 years of experie
   <img alt="Node.js" src="https://img.shields.io/badge/-NodeJS-3E863D?style=for-the-badge&logo=Node.js&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-1F97EE?style=for-the-badge&logo=docker&logoColor=white" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img alt="CircleCI" src="https://img.shields.io/badge/-CircleCI-454545?style=for-the-badge&logo=circleci&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F54D27?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="Yarn" src="https://img.shields.io/badge/-Yarn-2188B6?style=for-the-badge&logo=yarn&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-npm-black?style=for-the-badge&logo=npm&logoColor=white" />
