@@ -13,6 +13,8 @@ I'm <strong>taptapdan</strong>, I'm a software engineer, and I'm currently using
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-5299C8?style=for-the-badge&logo=webpack&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007BCD?style=for-the-badge&logo=typescript&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-C596C7?style=for-the-badge&logo=prettier&logoColor=white" />
+  <img alt="Node.js" src="https://img.shields.io/badge/-NodeJS-3E863D?style=for-the-badge&logo=Node.js&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-1F97EE?style=for-the-badge&logo=docker&logoColor=white" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F54D27?style=for-the-badge&logo=git&logoColor=white" />
 </p>
