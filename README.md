@@ -1,6 +1,6 @@
 ## Hiya! 🎋
 
-I'm <strong>taptapdan</strong>, I'm a software engineer, and I'm currently using my coding super powers in edtech.
+I'm <strong>taptapdan</strong>, I'm a software engineer with 15 years of experience, and I'm currently using my coding super powers in edtech.
 
 ### Tech I'm Using
 
