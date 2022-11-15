@@ -18,3 +18,11 @@ I'm <strong>taptapdan</strong>, I'm a software engineer, and I'm currently using
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=for-the-badge&logo=google-cloud&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F54D27?style=for-the-badge&logo=git&logoColor=white" />
 </p>
+
+<p align="center">
+  ...
+</p>
+
+<p align="center">
+  <img src="typing.gif" alt="" />
+</p>
