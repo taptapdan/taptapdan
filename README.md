@@ -1,6 +1,6 @@
 ## Hiya! 🎋
 
-I'm <strong>taptapdan</strong>, I'm a software engineer with 15 years of experience, and I'm currently using my coding super powers in edtech.
+I'm <strong>taptapdan</strong>, I'm a software engineer with 15 years of experience, and I'm currently using my coding super powers in EdTech.
 
 ### Tech I'm Using
 
@@ -25,7 +25,7 @@ I'm <strong>taptapdan</strong>, I'm a software engineer with 15 years of experie
 ### This Year's Progress
 
 <p>
-  <!--YEAR_START-->◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️👾◽️◽️◽️◽️ 87.26% complete<!--YEAR_END-->
+  <!--PROGRESS_START-->◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️👾◽️◽️◽️◽️ 87.26% complete<!--PROGRESS_END-->
 </p>
 
 <p align="center">
@@ -40,6 +40,10 @@ I'm <strong>taptapdan</strong>, I'm a software engineer with 15 years of experie
   <em>On the other side of the screen, it all looks so easy.</em>
 </p>
 
+<p align="center">
+  ....
+</p>
 
-
-
+<p align="center">
+    <small><em><!--UPDATED_START--><!--UPDATED_END--></em></small>
+</p>

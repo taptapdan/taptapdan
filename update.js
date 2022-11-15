@@ -16,14 +16,20 @@ const progressBar = (function () {
     '👾' +
     '◽️'.repeat(progressBarSize - progressBarPosition);
 
-  return `<!--YEAR_START-->${bar} ${(progress * 100).toFixed(
+  return `<!--PROGRESS_START-->${bar} ${(progress * 100).toFixed(
     2,
-  )}% complete<!--YEAR_END-->`;
+  )}% complete<!--PROGRESS_END-->`;
 })();
 
 let readme = fs.readFileSync('./README.md', { encoding: 'utf8' });
 
-const regex = /<!--YEAR_START-->.*<!--YEAR_END-->/i;
-readme = readme.replace(regex, progressBar);
+const regexProgress = /<!--PROGRESS_START-->.*<!--PROGRESS_END-->/i;
+readme = readme.replace(regexProgress, progressBar);
+
+const regexUpdated = /<!--UPDATED_START-->.*<!--UPDATED_END-->/i;
+readme = readme.replace(
+  regexUpdated,
+  `<!--UPDATED_START-->Updated on ${new Date().toUTCString()}<!--UPDATED_END-->`,
+);
 
 console.log(readme);
