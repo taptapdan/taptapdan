@@ -25,7 +25,7 @@ I'm <strong>taptapdan</strong>, I'm a software engineer with 15 years of experie
 ### This Year's Progress
 
 <p>
-  <!--PROGRESS_START-->◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️👾◽️◽️◽️◽️ 87.85% complete<!--PROGRESS_END-->
+  <!--PROGRESS_START-->◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️👾◽️◽️◽️◽️ 87.90% complete<!--PROGRESS_END-->
 </p>
 
 <p align="center">
@@ -45,8 +45,9 @@ I'm <strong>taptapdan</strong>, I'm a software engineer with 15 years of experie
 </p>
 
 <p align="right">
-    <small><em><!--UPDATED_START-->Updated on Thu, 17 Nov 2022 16:02:13 GMT<!--UPDATED_END--></em></small>
+    <small><em><!--UPDATED_START-->Updated on Thu, 17 Nov 2022 20:02:04 GMT<!--UPDATED_END--></em></small>
 </p>
+
 
 
 
