@@ -1,10 +1,10 @@
-# Hiya! 🎋
+## Hiya! 🎋
 
 I'm <strong>taptapdan</strong>, I'm a software engineer with 15 years of experience, and I'm currently using my coding super powers in EdTech.
 
 <p><img src="assets/div.png" alt="" />
 
-## Tech I'm Using
+### Tech I'm Using
 
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-25AACE?style=for-the-badge&logo=react&logoColor=white" /> 
@@ -26,7 +26,7 @@ I'm <strong>taptapdan</strong>, I'm a software engineer with 15 years of experie
 
 <p><img src="assets/div.png" alt="" />
 
-## This Year's Progress
+### This Year's Progress
 
 <p>
   <!--PROGRESS_START-->◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️👾◽️◽️◽️ 90.04% complete<!--PROGRESS_END-->
@@ -47,4 +47,3 @@ I'm <strong>taptapdan</strong>, I'm a software engineer with 15 years of experie
 <p align="right">
     <small><em><!--UPDATED_START-->Updated on Fri, 25 Nov 2022 15:38:36 GMT<!--UPDATED_END--></em></small>
 </p>
-
