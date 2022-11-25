@@ -33,7 +33,7 @@ I'm <strong>taptapdan</strong>, I'm a software engineer with 15 years of experie
 </p>
 
 <p align="center">
-  <img src="typing.gif" alt="" />
+  <img src="assets/typing.gif" alt="" />
 </p>
 
 <p align="center">
@@ -47,65 +47,3 @@ I'm <strong>taptapdan</strong>, I'm a software engineer with 15 years of experie
 <p align="right">
     <small><em><!--UPDATED_START-->Updated on Fri, 25 Nov 2022 12:02:22 GMT<!--UPDATED_END--></em></small>
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
