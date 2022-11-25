@@ -2,8 +2,6 @@
 
 I'm <strong>taptapdan</strong>, I'm a software engineer with 15 years of experience, and I'm currently using my coding super powers in EdTech.
 
-<p><img src="assets/div.png" alt="" />
-
 ### Tech I'm Using
 
 <p>
@@ -24,15 +22,13 @@ I'm <strong>taptapdan</strong>, I'm a software engineer with 15 years of experie
   <img alt="npm" src="https://img.shields.io/badge/-npm-black?style=for-the-badge&logo=npm&logoColor=white" />
 </p>
 
-<p><img src="assets/div.png" alt="" />
-
 ### This Year's Progress
 
 <p>
   <!--PROGRESS_START-->◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️◽️👾◽️◽️◽️ 90.05% complete<!--PROGRESS_END-->
 </p>
 
-<p><img src="assets/div.png" alt="" />
+<p align="center">...</p>
 
 <p align="center">
   <img src="assets/typing.gif" alt="" />
@@ -42,9 +38,8 @@ I'm <strong>taptapdan</strong>, I'm a software engineer with 15 years of experie
   <em>On the other side of the screen, it all looks so easy.</em>
 </p>
 
-<p><img src="assets/div.png" alt="" />
+<p align="center">...</p>
 
 <p align="right">
     <small><em><!--UPDATED_START-->Updated on Fri, 25 Nov 2022 16:03:37 GMT<!--UPDATED_END--></em></small>
 </p>
-
