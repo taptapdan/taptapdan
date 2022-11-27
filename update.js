@@ -12,9 +12,8 @@ const progressBar = (function () {
   const progressBarPosition = parseInt(progress * progressBarSize);
 
   const bar =
-    '◽️'.repeat(progressBarPosition - 1) +
-    '👾' +
-    '◽️'.repeat(progressBarSize - progressBarPosition);
+    '🟩'.repeat(progressBarPosition) +
+    '⬜'.repeat(progressBarSize - progressBarPosition);
 
   return `<!--PROGRESS_START-->${bar} ${(progress * 100).toFixed(
     2,
