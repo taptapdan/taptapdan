@@ -312,6 +312,10 @@
 
 ## Conference Videos
 
+### PyCon US 2023
+
+https://www.youtube.com/playlist?list=PL2Uw4_HvXqvY2zhJ9AMUa_Z6dtMGF3gtb
+
 ### Byteconf React 2020
 
 https://www.youtube.com/playlist?list=PLH_Crma-Dc9OwLsglv7uP13JUM3uP6STx
