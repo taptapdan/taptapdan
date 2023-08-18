@@ -319,6 +319,10 @@
 
 https://www.youtube.com/playlist?list=PL2Uw4_HvXqvY2zhJ9AMUa_Z6dtMGF3gtb
 
+### App.js Conf 2023
+
+https://www.youtube.com/playlist?list=PLSk21zn8fFZCfYEMpSqQOHMgyNKc8B7_s
+
 ### Next.js Conf 2022
 
 https://nextjs.org/conf
