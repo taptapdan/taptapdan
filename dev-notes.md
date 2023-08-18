@@ -322,6 +322,10 @@ https://www.youtube.com/playlist?list=PL2Uw4_HvXqvY2zhJ9AMUa_Z6dtMGF3gtb
 
 https://nextjs.org/conf
 
+### TransformX - AI Conference 2022
+
+https://www.youtube.com/playlist?list=PLR8xSRbGJjJCDY4kMn80q5g0b9CvmVnsj
+
 ### Byteconf React 2020
 
 https://www.youtube.com/playlist?list=PLH_Crma-Dc9OwLsglv7uP13JUM3uP6STx
