@@ -103,6 +103,7 @@
 
 ### Design Patterns
 
+- [Primer Design System](https://primer.style/design/)
 - [State - Design Patterns](https://gameprogrammingpatterns.com/state.html)
 - [Buttons shouldn't have a hand cursor](https://medium.com/simple-human/buttons-shouldnt-have-a-hand-cursor-b11e99ca374b)
 - [Why are hyperlinks blue?](https://blog.mozilla.org/en/internet-culture/deep-dives/why-are-hyperlinks-blue/)
