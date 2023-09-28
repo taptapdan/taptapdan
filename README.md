@@ -37,7 +37,7 @@ I'm <strong>taptapdan</strong>, I'm a software engineer with 15 years of experie
 <p align="center">...</p>
 
 <p align="right">
-    <small><em><!--UPDATED_START-->Updated on Thu, 01 Dec 2022 00:07:30 GMT<!--UPDATED_END--></em></small>
+    <small><em><!--UPDATED_START--><!--UPDATED_END--></em></small>
 </p>
 
 
