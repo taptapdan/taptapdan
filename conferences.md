@@ -34,7 +34,13 @@ https://www.youtube.com/channel/UCUTZdTjqY9ypGfpYWvSHC2w/videos
 
 > Framework Summit is an annual conference focused on broadening the horizon of developers who use JavaScript Frameworks. Keynotes from the Angular, Elm, Ember, React, and Vue teams are joined with community expert talks on topics ranging from deployment to change detection.
 
-### Github Universe 2017
+### GitHub Universe 2023
+
+https://www.youtube.com/playlist?list=PL0lo9MOBetEGF_pCQVCc_3z36ihKSolLC
+
+> GitHub Universe is the global, annual event for GitHub’s customers and the developer community.
+
+### GitHub Universe 2017
 
 https://www.youtube.com/user/github/playlists?shelf_id=4&view=50&sort=dd
 
